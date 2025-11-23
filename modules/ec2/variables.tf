@@ -1,0 +1,10 @@
+variable "ami" {}
+variable "instance_type" {}
+variable "subnet_id" {}
+variable "security_group_id" {}
+variable "ssh_key_name" {}
+variable "github_repo" {}
+variable "github_branch" {}
+variable "ebs_device_name" {}
+variable "ebs_volume_id" {}
+variable "jenkins_mount_point" {}
